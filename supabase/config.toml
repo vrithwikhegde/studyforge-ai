@@ -1,0 +1,5 @@
+[functions.generate-study-kit]
+verify_jwt = false
+
+[functions.ask-ai]
+verify_jwt = false
